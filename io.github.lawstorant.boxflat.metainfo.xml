@@ -111,6 +111,11 @@
   <update_contact>forest10pl@gmail.com</update_contact>
 
   <releases>
+    <release version="v1.36.2" date="2026-08-20">
+      <description>
+        <p>Add support for R5 PRO wheelbase</p>
+      </description>
+    </release>
     <release version="v1.36.1" date="2026-06-15">
       <description>
         <p>Fix detection fix error with SRP2 pedals and add work mode to presets</p>
